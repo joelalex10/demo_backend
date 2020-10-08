@@ -2,8 +2,8 @@ POST http://localhost:8080/v1/contact
 Content-Type: application/json
 
 {
- "firstName" :  "Maria",
- "firstSurname" : "Gomez"
+ "firstName" :  "Diego",
+ "firstSurname" : "Arias"
 }
 
 ###

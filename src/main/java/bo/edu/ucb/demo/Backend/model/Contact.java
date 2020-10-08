@@ -11,14 +11,18 @@ public class Contact {
     @Column(name = "contact_id")
     @Basic(optional = false)
     private Integer contactId;
+
     @Column(name = "first_name")
     @Basic(optional = false)
     private String firstName;
+
     @Column(name = "second_name")
     private String secondName;
+
     @Column(name = "first_surname")
     @Basic(optional = false)
     private String firstSurname;
+
     @Column(name = "second_surname")
     private String secondSurname;
 

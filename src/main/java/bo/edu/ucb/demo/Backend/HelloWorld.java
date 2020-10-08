@@ -23,7 +23,7 @@ import java.util.List;
 @RestController
 @RequestMapping("/mi_ruta")
 public class HelloWorld {
-
+    /*
     @Autowired
     JdbcTemplate jdbcTemplate;
 
@@ -65,4 +65,5 @@ public class HelloWorld {
                     '}';
         }
     }
+    */
 }
